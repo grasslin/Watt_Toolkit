@@ -1,3 +1,11 @@
 this is a tool to speed up for github especially
 #主要用于加速github
+开启工具watt toolkit的时候，要对系统进行配置
+设置->网络和internet->代理->编辑，打开操作
+同时还要win+r,执行%USERPROFILE%\.gitconfig，然后对其中http部分进行打开注释
+
+
+如果不使用watt toolkit
+按上述方法关闭代理
+同时对文件中的http部分进行注释
 #www
