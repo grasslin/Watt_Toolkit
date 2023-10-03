@@ -1,1 +1,3 @@
 this is a tool to speed up for github especially
+#主要用于加速github
+#www
